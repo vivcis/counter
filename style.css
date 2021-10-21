@@ -32,5 +32,6 @@ button{
   border-radius: .3rem;
   width: 10rem;
   font-weight: bold;
+  cursor: pointer;
  /* margin: 2rem;*/
 }
