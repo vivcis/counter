@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+*{
+  padding: 0;
+  margin: 0;
+  color: #222;
+  box-sizing: border-box;
+}
+body {
+  background-color: #222;
+  font-family: 'Poppins', sans-serif;
+}
+
+body #app{
+  padding: 15rem;
+  margin-left: 22rem;
+  align-items: center;
+  justify-content: center;
+}
+
+#counter{
+  color: #fff;
+  margin: 9rem;
+  font-size: 2rem;
+}
+
+button{
+  font-size: 1rem;
+  color: tomato;
+  padding: .5rem;
+  border: 2px dotted yellow;
+  border-radius: .3rem;
+  width: 10rem;
+  font-weight: bold;
+ /* margin: 2rem;*/
+}
